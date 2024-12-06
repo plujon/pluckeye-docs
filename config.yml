@@ -8,6 +8,10 @@ languages:
   contentDir: content/en
   languageName: English
   weight: 1
+ tr:
+  contentDir: content/tr
+  languageName: Turkish
+  weight: 1
 markup:
  goldmark:
   renderer:
